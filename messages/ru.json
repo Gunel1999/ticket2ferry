@@ -1,0 +1,15 @@
+{
+  "IndexPage": {
+    "title": "Найди самый лучший маршрут к счастью"
+  },
+  "Navigation": {
+    "aboutUs": "О нас",
+    "explore": "Исследовать",
+    "booking": "Бронирование",
+    "contact": "Контакты"
+  },
+  "SignInRegister": {
+    "signIn": "Вход",
+    "register": "Регистрация"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "IndexPage": {
+    "title": "Xoşbəxtliyə aparan ən yaxşı yolu tap"
+  },
+  "Navigation": {
+    "aboutUs": "Haqqımızda",
+    "explore": "Kəşf et",
+    "booking": "Rezervasiya",
+    "contact": "Əlaqə"
+  },
+  "SignInRegister": {
+    "signIn": "Giriş",
+    "register": "Qeydiyyat"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "IndexPage": {
+    "title": "Find the Best Route to Happiness"
+  },
+  "Navigation": {
+    "aboutUs": "About Us",
+    "explore": "Explore",
+    "booking": "Booking",
+    "contact": "Contact"
+  },
+  "SignInRegister": {
+    "signIn": "Sign In",
+    "register": "Register"
+  }
+}
