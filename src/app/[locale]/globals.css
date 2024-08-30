@@ -26,6 +26,11 @@ body {
     rgb(var(--background-start-rgb));
 }
 
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;
