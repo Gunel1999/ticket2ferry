@@ -19,7 +19,7 @@ const AlwaysOn = () => {
           {t('title')}
         </h1>
       </ParallaxLayer>
-      <ParallaxLayer offset={0.95} speed={0.3} factor={0.6}>
+      <ParallaxLayer offset={0.95} speed={0.4} factor={0.6}>
         <div className="bg-[url('/bg_logo.png')] bg-contain bg-center bg-no-repeat w-screen h-full" />
       </ParallaxLayer>
       <ParallaxLayer offset={1.12} factor={0.1} speed={0.1}>
